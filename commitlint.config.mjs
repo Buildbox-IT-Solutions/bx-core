@@ -14,7 +14,7 @@ export default {
 				'doc',
 				'wip',
 				'revert',
-				"test",
+				'test',
 			],
 		],
 		'subject-case': [2, 'always', 'lower-case'],
