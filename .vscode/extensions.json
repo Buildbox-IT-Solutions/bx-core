@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+		"leonardssh.vscord",
+		"usernamehw.errorlens",
+		"editorconfig.editorconfig",
+		"gruntfuggly.todo-tree",
+		"vitest.explorer",
+		"biomejs.biome",
+		"ryanluker.vscode-coverage-gutters",
+		"github.vscode-github-actions",
+		"wix.vscode-import-cost",
+		"redhat.vscode-yaml",
+		"shd101wyy.markdown-preview-enhanced",
+		"ritwickdey.liveserver"
+	]
+}
