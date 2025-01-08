@@ -9,7 +9,7 @@ pre-push:
   parallel: true
   commands:
     tests:
-      run: pnpm test
+      run: pnpm test:cov
     build:
       run: pnpm build
     commit-lint:
